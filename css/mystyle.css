@@ -1,0 +1,31 @@
+@media screen and (min-width: 400px) and (max-width: 770px){
+
+	#d{
+		width:50px;
+		height:50px;;
+	}
+	#logo{
+	    width: 50px;
+	    height: 70px;
+	    position: relative;
+	    top: 4px;
+	}
+
+	#n{
+		width:50px;
+		height:50px;
+	}
+	#u{
+	    width: 50px;
+	    height: 50px;
+	    top: 9px;
+	    position: relative;
+	}
+	#t{
+		width:50px;
+		height:50px;
+	}
+
+
+
+}
